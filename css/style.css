@@ -9,6 +9,7 @@ body {
 }
 
 header, footer {
+  /*Background color*/
   background-color: #8000ff;
   text-align: left;
   /*min-width: 500px;*/
